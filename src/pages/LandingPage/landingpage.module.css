@@ -5,6 +5,10 @@
 .disclamer {
   padding-top: 1rem;
 }
+.wrapper > p {
+  margin-top: 1rem;
+  width: 550px;
+}
 
 .btn {
   margin-top: 10px;

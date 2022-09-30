@@ -8,11 +8,10 @@
 }
 .content_disclaimer {
   padding: 10px;
-  margin-left: 1rem;
-  margin-right: 1rem;
-  width: 600px;
+  margin: auto;
 }
 .content_paragraph {
   padding: 10px;
-  margin: 1rem;
+  margin: auto;
+  width: 400px;
 }
