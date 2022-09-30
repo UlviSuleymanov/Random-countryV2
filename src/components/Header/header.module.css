@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.logo {
+  position: absolute;
+  top: 2%;
+  left: 3%;
+  color: #fff;
+  cursor: pointer;
+  margin-left: 0.5rem;
+}
+.logo > a {
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}

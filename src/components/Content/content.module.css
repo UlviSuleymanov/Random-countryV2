@@ -1,0 +1,18 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  justify-self: center;
+  margin: auto;
+}
+.content_disclaimer {
+  padding: 10px;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  width: 600px;
+}
+.content_paragraph {
+  padding: 10px;
+  margin: 1rem;
+}

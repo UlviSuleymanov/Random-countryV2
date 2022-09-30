@@ -1,0 +1,24 @@
+.wrapper {
+  margin: auto;
+  padding: 1rem;
+}
+.disclamer {
+  padding-top: 1rem;
+}
+
+.btn {
+  margin-top: 10px;
+  border: none;
+  background-color: rgba(221, 52, 52, 0.884);
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  border-radius: 5px;
+}
+.btn:hover {
+  background-color: rgba(224, 71, 71, 0.884);
+}
+.btn > a {
+  text-decoration: none;
+}
