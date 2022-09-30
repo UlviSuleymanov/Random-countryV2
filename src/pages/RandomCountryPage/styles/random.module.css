@@ -80,6 +80,7 @@
   margin-right: auto;
   color: #fff;
   border-radius: 5px;
+  cursor: pointer;
 }
 .btn:hover {
   background-color: rgba(224, 71, 71, 0.884);
